@@ -1,5 +1,5 @@
 fn main() {
- let v = vec![1,4,3,6,2,7,8,5];
+ let v = vec![2,3,5,1,7,8,34,7,23,88,23,-83,-98];
 let answer = sort(v.clone());
 
     println!("{:?}", answer);
